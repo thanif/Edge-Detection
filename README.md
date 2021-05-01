@@ -44,3 +44,10 @@ It performs general detection using two derivative masks provided as input as fo
 2. Apply gaussian blur.
 3. Calculate the gradient image.
 4. Apply threshold on the gradient image.
+
+# Canny
+![alt text](canny_montage.png)
+# Log
+![alt text](log_montage.png)
+# General
+![alt text](general_montage.png)
