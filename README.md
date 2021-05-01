@@ -1,5 +1,9 @@
 # Edge-Detection
 
+Article: https://thanifbutt.medium.com/edge-detection-130bfe4f58ed
+
+Demo: https://www.youtube.com/watch?v=0BKVtcbYYKg&t=1s
+
 Implementation of the following gradient based edge detectors;
 
 Canny
